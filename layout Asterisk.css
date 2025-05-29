@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header{
+    background-color: #000000;
+    height:80px;
+    padding:5px;
+}
+
+#header h1{
+    float: left;
+    }
+    
+    #header a{
+        float :right;
+        padding: 20px 20px;
+    }
+
+#menu{
+    background-color:rgb(23, 24, 24);
+    height:50px;
+    padding:5px;
+}
+
+#sidebar{
+    width:300px;
+    height: 460px;
+    padding:5px;
+    float:left;
+    background-color:rgb(36, 34, 34);
+}
+
+#konten{
+    float:left;
+    width:1028px;
+    height: 460px;
+    padding:5px;
+    background-color:whitesmoke ;
+}
+
+#footer{
+    height:70px;
+    width: 100%px;
+    padding:5px;
+    background-color: rgb(224, 224, 224);
+    clear: both;
+}
